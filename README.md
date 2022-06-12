@@ -1,6 +1,6 @@
 <img align="left" src="https://thaddeus-segura.com/wp-content/uploads/2020/07/f16d4dd5aa05c3754fd0b359d487cce64f6252730a7cc435f3f37a13e53e2e59.0.png" alt="Heyy" width="15%" />
 
-### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >   Glad to see you here!
+### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">   Glad to see you here!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=45&width=600&center=true&vCenter=true&color=FD428E&font=Maven+Pro&lines=Hey,+I%27m+Backend+Developer;Hey,+I%27m+Front+End+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
 # 😎 Hey, I'm **Hiren Patel**, Full-Stack | Software Engineer. 🔰 
