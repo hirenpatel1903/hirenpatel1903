@@ -2,7 +2,7 @@
 
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">   Glad to see you here!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=45&width=600&center=true&vCenter=true&color=FD428E&font=Maven+Pro&lines=Hey,+I%27m+Backend+Developer;Hey,+I%27m+Front+End+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=45&width=600&center=true&vCenter=true&color=FD428E&font=Maven+Pro&lines=Hey,+I%27m+Full-Stack+Developer;Hey,+I%27m+Full-Stack+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
 # 😎 Hey, I'm **Hiren Patel**, Full-Stack | Software Engineer. 🔰 
 
 <!-- 
