@@ -155,6 +155,6 @@ I currently working as a <a href="https://www.linkedin.com/in/hiren1903/"><b>Ful
 
 ## Visual Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirenpatel1903&theme=radical)](https://git.io/streak-stats) &nbsp; ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hirenpatel1903&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hirenpatel1903&theme=radical)](https://git.io/streak-stats) ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=hirenpatel1903&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirenpatel1903&show_icons=true&theme=radical)
