@@ -19,7 +19,7 @@
 
 
 ### :eyes: No. of Profile Views,
-<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&color=green&style=flat-square"/>
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&color=green&style=flat-square&abbreviated=true"/>
 <!-- Place this tag where you want the button to render. -->
 <!-- <a class="github-button" href="https://github.com/hirenpatel1903" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @hirenpatel1903 on GitHub">Follow @hirenpatel1903</a> -->
 
