@@ -19,7 +19,7 @@
 
 
 ### :eyes: No. of Profile Views,
-<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&base=9000&style=plastic&abbreviated=true&label=PROFILE+VIEWS"/>
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&base=60000&style=plastic&abbreviated=true&label=PROFILE+VIEWS"/>
 
 
 <!-- <img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&color=lightgrey&style=plastic&abbreviated=true"/> --!>
