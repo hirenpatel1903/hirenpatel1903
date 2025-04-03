@@ -3,7 +3,7 @@
 ### Hi There, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">   Glad to see you here!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=45&width=600&center=true&vCenter=true&color=FD428E&font=Maven+Pro&lines=Hey,+I%27m+Full-Stack+Developer;Hey,+I%27m+Full-Stack+Developer;Hey,+I%27m+Full+Stack+Developer)](https://git.io/typing-svg)
-# 😎 Hey, I'm **Hiren Patel**, Full-Stack | Software Engineer. 🔰 
+# 😎 Hey, I'm **Hiren Patel**, Full-Stack | Software & AI Engineer. 🔰 
 
 <!-- 
 
@@ -33,7 +33,7 @@
 
 <ul>
  
- <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/hiren1903/"><b>Software Engineer (Full-Stack Developer)</b></a> at <i>Einzigartige</i>.</p></li>
+ <li> <p class="text-align: justify;">🔭 Presently, I’m working as <a href="https://www.linkedin.com/in/hiren1903/"><b>Software & AI Engineer (Full-Stack Developer)</b></a> at <i>Einzigartige</i>.</p></li>
  <li> 💼 I began my Web development journey at <a href="https://www.moontechnolabs.com/"><b>Moon Technolabs pvt. ltd.</b></a> </li>
  
  <li> 💡 Highly intrested to become an PYTHONISTS FULL-STACK ENGINEER ❤️</li>
@@ -59,7 +59,7 @@ class Designation(SoftwareDeveloper):
 
   def __init__(self):
     self.employee_name     =    'Hiren Patel'
-    self.employee_title    =    'Software Engineer'
+    self.employee_title    =    'Software & AI Engineer'
     self.company_name      =    'Einzigartige'
     self.location          =    'Vesu Surat'  
 
