@@ -8,8 +8,8 @@
 
 ---
 
-### 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=hirenpatel1903&style=plastic&color=blue&label=PROFILE+VIEWS)
+### :eyes: No. of Profile Views,
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&base=1190000&style=plastic&abbreviated=true&label=PROFILE+VIEWS"/>
 
 ---
 
