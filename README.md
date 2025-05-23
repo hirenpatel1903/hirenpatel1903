@@ -1,12 +1,10 @@
-<img align="left" src="https://thaddeus-segura.com/wp-content/uploads/2020/07/f16d4dd5aa05c3754fd0b359d487cce64f6252730a7cc435f3f37a13e53e2e59.0.png" width="150" style="margin-right: 20px;" />
+<img align="left" src="https://thaddeus-segura.com/wp-content/uploads/2020/07/f16d4dd5aa05c3754fd0b359d487cce64f6252730a7cc435f3f37a13e53e2e59.0.png" alt="Heyy" width="150" style="margin-right: 20px;" />
 
-# Hi, I’m Hiren Patel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+# Hi, I’m **Hiren Patel** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
-### 🚀 Software & AI Engineer | Full-Stack Developer
+**Software & AI Engineer | Full-Stack Developer**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&width=700&lines=Full-Stack+Developer+%7C+AI+Engineer;Laravel+%7C+ReactJS+%7C+NextJS+%7C+Django+%7C+NodeJS;REST+%2F+GraphQL+APIs+%7C+CI%2FCD+%7C+Microservices;MongoDB+%7C+PostgreSQL+%7C+MySQL;Cloud+Infra+%7C+AI+%2F+NLP+%2F+OCR)](https://git.io/typing-svg)
-
----
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=false&width=600&lines=Full%2DStack+Developer+%7C+Software+%26+AI+Engineer;Laravel+%7C+ReactJS+%7C+NodeJS+%7C+Django+%7C+NextJS;REST+%26+GraphQL+API+Integration+%7C+Microservices;MongoDB+%7C+MySQL+%7C+PostgreSQL;Cloud+%7C+Docker+%7C+CI%2FCD;AI+Enthusiast+%7C+Data+Analysis" alt="Typing SVG" />
 
 ### :eyes: No. of Profile Views,
 <img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&base=1190000&style=plastic&abbreviated=true&label=PROFILE+VIEWS"/>
