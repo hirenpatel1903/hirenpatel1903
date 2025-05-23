@@ -97,10 +97,13 @@
 ## 🤝 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiren1903/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hiren1903)
-[![Twitter](https://img.shields.io/badge/Twitter-%2320BEFF.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hirenpatel997)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hirenpatel1903/)
+[![Twitter](https://img.shields.io/badge/Twitter-%2320BEFF.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hirenpatel1903)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirenpatel1903)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/workwith/hirenp1903)
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:live:patelhiren.hp19?chat)
+[![Website](https://img.shields.io/badge/Website-einzigartige.in-ff6f61?style=for-the-badge&logo=google-chrome&logoColor=white)](http://einzigartige.in/)
+
 
 ---
 
