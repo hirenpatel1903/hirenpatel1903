@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=false&width=600&lines=Full%2DStack+Developer+%7C+Software+%26+AI+Engineer;Laravel+%7C+ReactJS+%7C+NodeJS+%7C+Django+%7C+NextJS;REST+%26+GraphQL+API+Integration+%7C+Microservices;MongoDB+%7C+MySQL+%7C+PostgreSQL;Cloud+%7C+Docker+%7C+CI%2FCD;AI+Enthusiast+%7C+Data+Analysis" alt="Typing SVG" />
 
 ### :eyes: No. of Profile Views,
-<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&base=3200000&style=plastic&abbreviated=true&label=PROFILE+VIEWS"/>
+<img alt="Viewers" src="https://komarev.com/ghpvc/?username=hirenpatel1903&base=12292100&style=plastic&abbreviated=true&label=PROFILE+VIEWS"/>
 
 ---
 
