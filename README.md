@@ -107,4 +107,9 @@
 
 ---
 
+## 📬 Resume 
+[Hiren_Patel_5+Years_FullStack-Developer.pdf](https://github.com/user-attachments/files/32885534/Hiren_Patel_5%2BYears_FullStack-Developer.pdf)
+
+---
+
 ## 📬 Let’s Build Something Great Together!
