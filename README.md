@@ -1,6 +1,7 @@
 <img align="left" src="https://thaddeus-segura.com/wp-content/uploads/2020/07/f16d4dd5aa05c3754fd0b359d487cce64f6252730a7cc435f3f37a13e53e2e59.0.png" alt="Heyy" width="150" style="margin-right: 20px;" />
 
-# Hi, I’m **Hiren Patel** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+# Hi, I’m **Hiren Patel** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" /> [![Download Resume](https://img.shields.io/badge/📥_Download-Resume-2ea44f?style=flat-square)](https://github.com/user-attachments/files/32885534/Hiren_Patel_5%2BYears_FullStack-Developer.pdf)
+
 
 **Software & AI Engineer | Full-Stack Developer**
 
@@ -106,10 +107,4 @@
 
 
 ---
-
-## 📬 Resume 
-[Hiren_Patel_5+Years_FullStack-Developer.pdf](https://github.com/user-attachments/files/32885534/Hiren_Patel_5%2BYears_FullStack-Developer.pdf)
-
----
-
 ## 📬 Let’s Build Something Great Together!
